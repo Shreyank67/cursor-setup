@@ -33,3 +33,10 @@ After comparing the interface with screenshots and videos, I realized that I was
 ### Resolution
 
 Once I switched to the Editor Window, I was able to access the Extensions marketplace, install both the Claude Code and Codex extensions, and complete the remaining setup steps successfully.
+
+### Screenshots
+
+* Cursor Editor Window – Screenshot of the Cursor editor showing the project files and integrated terminal.
+* Extensions Installed – Screenshot showing the Claude Code and Codex extensions installed in Cursor.
+* GitHub Repository – Screenshot of the public GitHub repository (`cursor-setup`).
+* Repository Clone – Screenshot of the macOS Terminal showing the repository clone commands and successful setup.
