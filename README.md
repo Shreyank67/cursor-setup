@@ -17,7 +17,7 @@ Cursor setup repo
 2. Opened Cursor Editor Window.
 3. Installed Claude Code extension.
 4. Installed Codex extension.
-5. loged into my GitHub account.
+5. logged into my GitHub account.
 6. Created a public GitHub repository. (name: cursor-setup)
 7. Cloned the repository locally. (using: git clone 'URL')
 8. Opened the repository in Cursor.
